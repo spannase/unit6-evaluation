@@ -1,0 +1,33 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "SriLanka",
+      "id": 2
+    },
+    {
+      "country": "USA",
+      "id": 3
+    }
+    
+  ],
+
+
+  "cities": [
+    {
+      "city": "Nagpur",
+      "population": "15000",
+      "country": "India",
+      "id": 1
+    },
+      {
+      "city": "Chicago",
+      "population": "70000",
+      "country": "USA",
+      "id": 2
+    }
+  ]
+}
